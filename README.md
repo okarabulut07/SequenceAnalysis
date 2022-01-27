@@ -1,3 +1,3 @@
 # SequenceAnalysis
 
-Distinguish bacterial and viral pharyngitis by RNA-Seq Analysis.
+Distinguishing bacterial and viral pharyngitis by RNA-Seq Analysis.
